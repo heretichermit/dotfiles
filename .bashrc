@@ -48,7 +48,7 @@ case $distro in
         alias search='xbps-query -R'
         alias remove='sudo xbps-remove'
         ;;
-    "Gentoo")
+    "Gentoo" | "Funtoo")
         alias install='sudo emerge -av'
         alias sync='emerge-webrsync'
         alias update='sudo emerge --dselect'
