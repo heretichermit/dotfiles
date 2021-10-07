@@ -1,0 +1,46 @@
+xterm*faceName: JetBrainsMono-Regular:size=10:antialias=true
+XTerm*allowBoldFonts: true
+XTerm*termName: xterm-256color
+UXTerm*termName: xterm-256color
+
+!----------------------------------------------------------------------
+! Linux terminal scheme from Gnome Terminal Linux Console color palette
+
+! Lighter Black & Gray
+xterm*background: #0c0c0c
+xterm*foreground: #ffffff
+
+! Black & DarkGray
+xterm*color0: #000000
+xterm*color8: #555555
+
+! DarkRed & Red
+xterm*color1: #aa0000
+xterm*color9: #ff5555
+
+! DarkGreen & Green
+xterm*color2: #00aa00
+xterm*color10: #55ff55
+
+! DarkYellow & Yellow
+xterm*color3: #aa5500
+xterm*color11: #ffff55
+
+! DarkBlue & Blue
+xterm*color4: #0000aa
+xterm*color12: #5555ff
+
+! DarkMagenta & Magenta
+xterm*color5: #aa00aa
+xterm*color13: #ff55ff
+
+! DarkCyan & Cyan
+xterm*color6: #00aaaa
+xterm*color14: #55ffff
+
+! LightGray + White
+xterm*color7: #aaaaaa
+xterm*color15: #ffffff
+
+! Orange
+xterm*cursorColor: #ffffff
